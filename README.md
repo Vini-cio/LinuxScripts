@@ -1,4 +1,4 @@
-# linux_scripts
+# Linux Scripts
 Aqui encontraras diferentes scripts que son muy utiles para automatizar tareas en linux
 
 actividad.sh
